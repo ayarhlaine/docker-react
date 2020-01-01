@@ -13,10 +13,10 @@ Run `npm start `
 
 See output at `http://localhost:3000/`
 
-With Docker Compose \
+With Docker Compose 
 
 Up Docker Container Services \
-`docker-compose up -d` \
+`docker-compose up -d` 
 
 Up Docker Container Services \
 `docker-compose down`
